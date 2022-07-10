@@ -11,7 +11,7 @@ title                    : "Soroush Ebadian"
 title_separator          : "-"
 name                     : &name "Soroush Ebadian"
 description              : &description "Soroush Ebadian's personal website"
-url                      : https://soroushe.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://ebadian.org
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "SoroushE/soroushe.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
