@@ -32,5 +32,10 @@
           In <a href=" {{ post.venue-url }}">{{ post.short-venue }}</a>: {{ post.venue }}
       </div>
     {% endif %}
+    {% if post.collection == 'publications' and post.paperurl %}
+      <div>
+        [<a href="{{ post.paperurl }}">Paper</a>]
+      </div>
+    {% endif %}
   </article>
 </div>
