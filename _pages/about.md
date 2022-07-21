@@ -20,3 +20,11 @@ My research is focused on **fair division** and
 **computational social choice**, though more broadly,
 I am interested in theoretical computer science (especially algorithms)
 and its intersection with economics.
+
+
+### Selected Awards
+
+* **Gold medal** in the 24<sup>th</sup> **Iranian National Olympiad in Informatics** (INOI), 2014.
+* **2<sup>nd</sup> team** in the **ACM-ICPC West Asia Regional Contest**, Tehran, Iran, 2015.
+* 4<sup>th</sup> place in the Iranian National Scientific Olympiad in Computer Science and Engineering (undergraduate nationwide competition), 2019.
+* **Computer Science 50<sup>th</sup> Anniversary Graduate Scholarship, DCS, University of Toronto**, 2022.
