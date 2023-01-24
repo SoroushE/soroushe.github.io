@@ -1,2 +1,5 @@
 _site/
+.github_cache
+.idea/
+.ruby-version
 
