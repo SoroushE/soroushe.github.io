@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a second year Ph.D. student in the
+I am a third year Ph.D. student in the
 [Department of Computer Science](https://web.cs.toronto.edu/)
 at the **University of Toronto**,
 where I am fortunate to be working under the supervision of
@@ -27,4 +27,4 @@ and its intersection with economics.
 * **Gold medal** in the 24<sup>th</sup> **Iranian National Olympiad in Informatics** (INOI), 2014.
 * **2<sup>nd</sup> team** in the **ACM-ICPC West Asia Regional Contest**, Tehran, Iran, 2015.
 * 4<sup>th</sup> place in the Iranian National Scientific Olympiad in Computer Science and Engineering (undergraduate nationwide competition), 2019.
-* **Computer Science 50<sup>th</sup> Anniversary Graduate Scholarship, DCS, University of Toronto**, 2022.
+* Computer Science 50<sup>th</sup> Anniversary Graduate Scholarship, DCS, University of Toronto, 2022.
