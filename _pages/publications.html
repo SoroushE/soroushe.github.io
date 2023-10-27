@@ -25,8 +25,23 @@ author_profile: true
     ul.publications li::before {
         content: "C"counter( pubs )"" ;
         /* -- */
-        font-size: 12pt ;
+        font-size: 11pt ;
+        background-color: #0056b3 ;
+        color: white ;
+        border-radius: 5px 5px 5px 5px ;
+        box-sizing: border-box ;
+        margin-right: 10px ;
+        min-width: 40px ;
+        padding: 0px 5px 0px 5px ;
+        text-align: center ;
+    }
+
+    ul.publications li.preprint::before {
+        content: "W"counter( pubs )"" ;
+        /* -- */
+        font-size: 11pt ;
         background-color: #d5dbdb ;
+        color: #494e52;
         border-radius: 5px 5px 5px 5px ;
         box-sizing: border-box ;
         margin-right: 10px ;
@@ -36,12 +51,36 @@ author_profile: true
     }
 </style>
 
+{% assign preprintCount = 0 %}
 
+{% for post in site.publications %}
+  {% if post.preprint %}
+    {% assign preprintCount = preprintCount | plus: 1 %}
+  {% endif %}
+{% endfor %}
+
+<h2>Preprints</h2>
 {% include base_path %}
-<ul class="publications" style="counter-reset: pubs {{ site.publications.size | plus:1 }};">
+<ul class="publications" style="counter-reset: pubs {{ preprintCount  | plus:1 }};">
   {% for post in site.publications reversed %}
-    <li>
-      {% include archive-single-publication.html %}
-    </li>
+    {% if post.preprint %}
+      <li class="preprint">
+        {% include archive-single-publication.html %}
+      </li>
+    {% endif %}
+  {% endfor %}
+</ul>
+
+<h2>Papers</h2>
+{% include base_path %}
+{% assign conferencePaperCount = site.publications.size | minus: preprintCount %}
+<ul class="publications" style="counter-reset: pubs {{ conferencePaperCount | plus:1 }};">
+  {% for post in site.publications reversed %}
+    {% if post.preprint %}
+    {% else %}
+      <li>
+        {% include archive-single-publication.html %}
+      </li>
+    {% endif %}
   {% endfor %}
 </ul>
