@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a third year Ph.D. student in the
+I am a fourth year Ph.D. student in the
 [Department of Computer Science](https://web.cs.toronto.edu/)
 at the **University of Toronto**,
 where I am fortunate to be working under the supervision of
@@ -22,9 +22,16 @@ I am interested in theoretical computer science (especially algorithms)
 and its intersection with economics.
 
 
+### News
+
+* I'm visiting [Ariel Procaccia](https://procaccia.info) at Harvard University for the fall 2023.
+
+
 ### Selected Awards
 
 * **Gold medal** in the 24<sup>th</sup> **Iranian National Olympiad in Informatics** (INOI), 2014.
-* **2<sup>nd</sup> team** in the **ACM-ICPC West Asia Regional Contest**, Tehran, Iran, 2015.
+* **Ontario Graduate Scholarship**, 2023-2024.
+* Alfred B. Lehman Graduate Scholarship in Computer Science, University of Toronto, 2023.
+* Computer Science 50<sup>th</sup> Anniversary Graduate Scholarship, University of Toronto, 2022.
 * 4<sup>th</sup> place in the Iranian National Scientific Olympiad in Computer Science and Engineering (undergraduate nationwide competition), 2019.
-* Computer Science 50<sup>th</sup> Anniversary Graduate Scholarship, DCS, University of Toronto, 2022.
+* **2<sup>nd</sup> team** in the **ACM-ICPC West Asia Regional Contest**, Tehran, Iran, 2015.
