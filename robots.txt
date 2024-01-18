@@ -1,0 +1,4 @@
+txt
+User-agent: *
+Disallow: /preprint/metric_distortion_queries.pdf
+Disallow: /preprint/distortion_computation.pdf
