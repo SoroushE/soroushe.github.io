@@ -1,5 +1,5 @@
 ---
-title: "Harm Ratio: A Novel and Versatile Fairness Criterion"
+title: "Policy Aggregation"
 collection: publications
 year: 2024
 paperurl: "https://ebadian.org/preprint/policy_aggregation.pdf"
