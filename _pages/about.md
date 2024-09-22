@@ -14,18 +14,25 @@ at the **University of Toronto**,
 where I am fortunate to be working under the supervision of
 [Nisarg Shah](https://www.cs.toronto.edu/~nisarg/).
 Before joining UofT, I received my B.Sc. in Computer Engineering from
-[Sharif University of Technology](http://ce.sharif.edu/).
+[Sharif University of Technology](http://ce.sharif.edu/), and
+I spent four years in the tech industry as a software engineer and
+technical manager, building platforms with millions of users.
 
-My research is focused on **fair division** and
-**computational social choice**, though more broadly,
-I am interested in theoretical computer science (especially algorithms)
-and its intersection with economics.
 
+
+My research lies at the intersection of algorithms,
+artificial intelligence, and economics,
+and focuses on design fair and efficient mechanisms
+to aggregate diverse preferences into collective decisions
+with applications ranging from voting and
+democratic systems (citizen's assemblies)
+to resource allocation and AI alignment.
 
 ### News
 
-* We revived [spliddit.org](http://spliddit.org)! Check it out! 
-* I'm visiting [Ariel Procaccia](https://procaccia.info) at Harvard University for the fall 2023.
+* I've started an ML Researcher Internship at [BorealisAI](https://borealisai.com/)!
+* We revived [spliddit.org](http://spliddit.org)! Check it out!
+* I'm visiting [Ariel Procaccia](https://procaccia.info) at Harvard University for fall 2023.
 
 
 ### Selected Awards
