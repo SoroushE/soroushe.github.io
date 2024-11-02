@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a fourth year Ph.D. student in the
+I am a fifth-year Ph.D. student in the
 [Department of Computer Science](https://web.cs.toronto.edu/)
 at the **University of Toronto**,
 where I am fortunate to be working under the supervision of
@@ -30,7 +30,7 @@ to resource allocation and AI alignment.
 
 ### News
 
-* I've started an ML Researcher Internship at [Borealis AI](https://borealisai.com/) for fall 2024!
+* I've started an ML Researcher Internship at [Borealis AI](https://borealisai.com/) for fall 2024.
 * We revived [spliddit.org](http://spliddit.org)! Check it out!
 * I'm visiting [Ariel Procaccia](https://procaccia.info) at Harvard University for fall 2023.
 

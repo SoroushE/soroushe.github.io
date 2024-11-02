@@ -14,7 +14,11 @@ Evi Micha:
 
 Ariel D. Procaccia:
   name        : "Ariel D. Procaccia"
-  uri         : "http://procaccia.info/"
+  uri         : "https://procaccia.info/"
+
+Benjamin Cookson:
+  name        : "Benjamin Cookson"
+  uri         : "https://bcookson.github.io/"
 
 Parand A. Alamdari:
   name        : "Parand A. Alamdari"
@@ -34,7 +38,7 @@ Rupert Freeman:
 
 Hamid Zarrabi-Zadeh:
   name        : "Hamid Zarrabi-Zadeh"
-  uri         : "http://sharif.edu/~zarrabi/"
+  uri         : "https://sharif.edu/~zarrabi/"
 
 Xin Huang:
   name        : "Xin Huang"
@@ -43,6 +47,10 @@ Xin Huang:
 Mohamad Latifian:
   name        : "Mohamad Latifian"
   uri         : "https://latifian.me"
+
+Siddharth Barman:
+  name        : "Siddharth Barman"
+  uri         : "https://www.csa.iisc.ac.in/~barman/"
 
 Aris Filos-Ratsikas:
   name        : "Aris Filos-Ratsikas"
