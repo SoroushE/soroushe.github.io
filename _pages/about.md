@@ -31,7 +31,7 @@ to resource allocation and AI alignment.
 ### News
 
 * I've started an ML Researcher Internship at [Borealis AI](https://borealisai.com/) for fall 2024.
-* We revived [spliddit.org](http://spliddit.org)! Check it out!
+* We revived [Spliddit.org](http://spliddit.org)! Check it out!
 * I'm visiting [Ariel Procaccia](https://procaccia.info) at Harvard University for fall 2023.
 
 
