@@ -34,7 +34,6 @@ to resource allocation and AI alignment.
 * We revived [Spliddit.org](http://spliddit.org)! Check it out!
 * I'm visiting [Ariel Procaccia](https://procaccia.info) at Harvard University for fall 2023.
 
-
 ### Selected Awards
 
 * **Gold medal** in the 24<sup>th</sup> **Iranian National Olympiad in Informatics** (INOI), 2014.
