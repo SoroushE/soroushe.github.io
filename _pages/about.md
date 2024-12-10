@@ -30,6 +30,8 @@ to resource allocation and AI alignment.
 
 ### News
 
+* Four papers accepted to AAAI'25!
+* I'm attending NeurIPS'24 presenting our paper "[Policy Aggregation](https://ebadian.org/preprint/policy_aggregation.pdf)". See you in Vancouver!
 * I've started an ML Researcher Internship at [Borealis AI](https://borealisai.com/) for fall 2024.
 * We revived [Spliddit.org](http://spliddit.org)! Check it out!
 * I'm visiting [Ariel Procaccia](https://procaccia.info) at Harvard University for fall 2023.
