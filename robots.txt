@@ -3,3 +3,4 @@ User-agent: *
 Disallow: /preprint/metric_distortion_queries.pdf
 Disallow: /preprint/distortion_computation.pdf
 Disallow: /preprint/distortion_queries.pdf
+Disallow: /files/soroush_ebadian_cv.pdf
