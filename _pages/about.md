@@ -30,6 +30,8 @@ to resource allocation and AI alignment.
 
 ### News
 
+* Nisarg and I won a [AAAI-25 Outstanding Paper Award](https://aaai.org/about-aaai/aaai-awards/aaai-25-paper-awards/)!
+Check out the paper [here](https://ebadian.org/preprint/distortion_queries.pdf). 
 * Four papers accepted to AAAI'25!
 * I'm attending NeurIPS'24 presenting our paper "[Policy Aggregation](https://ebadian.org/preprint/policy_aggregation.pdf)". See you in Vancouver!
 * I've started an ML Researcher Internship at [Borealis AI](https://borealisai.com/) for fall 2024.
@@ -38,6 +40,7 @@ to resource allocation and AI alignment.
 
 ### Selected Awards
 
+* **AAAI-25 Outstanding Paper Award**
 * **Gold medal** in the 24<sup>th</sup> **Iranian National Olympiad in Informatics** (INOI), 2014.
 * **Ontario Graduate Scholarship**, 2023-2024.
 * Alfred B. Lehman Graduate Scholarship in Computer Science, University of Toronto, 2023 and 2024.
