@@ -82,10 +82,9 @@ analytics:
 author:
   name             : "Soroush Ebadian"
   avatar           : "soroush-ebadian.jpeg"
-  bio              : "PhD Student at University of Toronto"
+  bio              : "Anthropic Fellow | CS PhD, University of Toronto"
   location         : "Toronto, ON"
   employer         :
-  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=tN4kqvYAAAAJ&view_op=list_works"
   email            : "soroush@cs.toronto.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
